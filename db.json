@@ -1,0 +1,100 @@
+{
+  "ports": [
+    {
+      "id": "242b",
+      "name": "hem",
+      "email": "hem@gmail.com",
+      "course": "python"
+    },
+    {
+      "id": "d6f5",
+      "name": "suni",
+      "email": "suni@gmail.com",
+      "course": "mba"
+    },
+    {
+      "name": "Kavya M S",
+      "email": "kavya@gmail.com",
+      "course": "BSc",
+      "id": "b473"
+    },
+    {
+      "id": "dade",
+      "name": "Sumalatha",
+      "email": "suma@gmail.com",
+      "course": "MA"
+    },
+    {
+      "id": "a5d6",
+      "name": "Sushma",
+      "email": "sush@gmail.com",
+      "course": "MA"
+    },
+    {
+      "id": "9720",
+      "name": "Sandeep",
+      "email": "sandi@gmail.com",
+      "course": "BA"
+    },
+    {
+      "id": "0153",
+      "name": "Chitra",
+      "email": "chitra@gmail.com",
+      "course": "MA"
+    },
+    {
+      "id": "7f40",
+      "name": "Sindu",
+      "email": "sindu@gmail.com",
+      "course": "BA"
+    },
+    {
+      "id": "79b0",
+      "name": "Madhu",
+      "email": "madhu@gmail.com",
+      "course": "PUC"
+    },
+    {
+      "id": "02cb",
+      "name": "Karthik",
+      "email": "karthi@gmail.com",
+      "course": "Criminology"
+    },
+    {
+      "id": "eb88",
+      "name": "Kavana",
+      "email": "kavana@gmail.com",
+      "course": "BA"
+    },
+    {
+      "name": "Jeevan",
+      "email": "jeevu@gmail.com",
+      "course": "9th",
+      "id": "6355"
+    },
+    {
+      "id": "28c2",
+      "name": "Chiranth",
+      "email": "chiru@gmail.com",
+      "course": "6th"
+    },
+    {
+      "id": "77d7",
+      "name": "Diya",
+      "email": "dee@gmail.com",
+      "course": ""
+    },
+    {
+      "id": "ad19",
+      "name": "Pradyumna",
+      "email": "paddu@gmail.com",
+      "course": ""
+    },
+    {
+      "id": "b4a2",
+      "name": "Likith",
+      "email": "likku@gmail.com",
+      "course": ""
+    }
+  ]
+}
