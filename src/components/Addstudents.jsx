@@ -32,7 +32,7 @@ const Addstudents = () => {
     <div>
       <form onSubmit={handlesubmit}>
         
-            <h2>ADD STUDENT</h2>
+            <h2>ADD STUDENTS</h2>
           <div className='items1'>
           <label htmlFor='name'>STUDENT NAME</label><br/>
           <input onChange={(e)=>{
