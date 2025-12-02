@@ -3,9 +3,6 @@ import React, { useEffect, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify'
 
-
-
-
 const Viewstudents = () => {
   let navigate=useNavigate("");
   let [studentData,setstudentData] = useState([])
@@ -23,8 +20,7 @@ const Viewstudents = () => {
     
     toast(`User Removed !`)
     navigate("/viewstudents")
-    
-    
+  
   }
   return (
     <div>

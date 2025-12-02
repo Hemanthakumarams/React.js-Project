@@ -1,10 +1,7 @@
-
 import React, { useState } from 'react'
 import axios from 'axios'
 import { toast } from 'react-toastify'
 import { useNavigate } from 'react-router-dom'
-
-
 
 const Addstudents = () => {
 
@@ -25,14 +22,12 @@ const Addstudents = () => {
     toast.success(`User ${name} Added successfully`)
     navigate("/viewstudents")
     
-    
-    
   }
   return (
     <div>
       <form onSubmit={handlesubmit}>
         
-            <h2>ADD STUDENTS</h2>
+            <h2>ADD STUDENT</h2>
           <div className='items1'>
           <label htmlFor='name'>STUDENT NAME</label><br/>
           <input onChange={(e)=>{

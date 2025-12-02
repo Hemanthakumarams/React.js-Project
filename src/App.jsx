@@ -7,8 +7,6 @@ import Addstudents from './components/Addstudents.jsx'
 import { ToastContainer } from 'react-toastify'
 import UpdateStudents from './components/UpdateStudents.jsx'
 
-
-
 const App = () => {
   return (
     <div>

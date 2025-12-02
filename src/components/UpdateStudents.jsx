@@ -4,9 +4,6 @@ import axios from 'axios'
 import { toast } from 'react-toastify'
 import { useNavigate, useParams } from 'react-router-dom'
 
-
-
-
 const UpdateStudents = () => {
 
   let {id}=useParams();
@@ -39,11 +36,8 @@ const UpdateStudents = () => {
             setemail(data.email)
             setcourse(data.course)
           })
-   
-
   },[])
 
-  
   return (
     <div>
       <form onSubmit={handlesubmit}>
@@ -75,7 +69,6 @@ const UpdateStudents = () => {
           <button>Update Student</button>
           </div>
           
-
       </form>
     </div>
   )

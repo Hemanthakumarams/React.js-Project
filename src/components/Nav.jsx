@@ -16,7 +16,6 @@ const Nav = () => {
             <li>
                 <Link to={"/addstudents"}>Addstudents</Link>
             </li>
-          
         </ol>
       </div>
     </nav>
